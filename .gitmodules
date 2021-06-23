@@ -1,0 +1,3 @@
+[submodule "telegram-shop-server"]
+	path = telegram-shop-server
+	url = git@github.com:kaizzzoku/telegram-shop-server.git
